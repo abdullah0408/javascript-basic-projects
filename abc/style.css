@@ -1,0 +1,19 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+html, body{
+    height: 100%;width: 100%;
+}
+body{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card{
+    height: 400px;
+    width: 280px;
+    background-color: #fff;
+    border-radius: 20px;
+    border: 3px solid pink;
+}
